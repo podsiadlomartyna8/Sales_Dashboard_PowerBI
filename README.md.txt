@@ -1,0 +1,55 @@
+ Sales Dashboard – Power BI
+
+Projekt przedstawia interaktywny dashboard sprzedażowy przygotowany w Power BI.
+
+Celem projektu było przeanalizowanie sprzedaży w czasie oraz porównanie wyników według kategorii produktów, regionów i konkretnych produktów.
+
+ Dane
+
+Projekt został przygotowany na przykładowych danych sprzedażowych podzielonych na trzy tabele:
+
+- Sales
+- Customers
+- Products
+
+Dodatkowo w Power BI utworzyłam tabelę Calendar do analizy danych w czasie.
+
+ Co zrobiłam
+
+- przygotowanie i sprawdzenie danych w Power Query,
+- utworzenie relacji między tabelami,
+- stworzenie tabeli Calendar,
+- przygotowanie miar DAX,
+- stworzenie interaktywnego dashboardu,
+- dodanie filtrów po roku, regionie i kategorii.
+
+ KPI
+
+W dashboardzie znajdują się:
+
+- Total Sales
+- Number of Orders
+- Number of Customers
+- Average Order Value
+
+ Dashboard
+
+Dashboard pokazuje:
+
+- sprzedaż według miesiąca,
+- sprzedaż według kategorii,
+- sprzedaż według regionu,
+- produkty generujące największą sprzedaż.
+
+[Sales Dashboard](dashboard.png)
+
+ Przykładowe wnioski
+
+- największą sprzedaż generuje kategoria Elektronika,
+- Laptop Pro jest produktem o najwyższej wartości sprzedaży,
+- wyniki sprzedaży różnią się pomiędzy regionami,
+- sprzedaż zmienia się w kolejnych miesiącach.
+
+ Technologie
+
+Power BI | Power Query | DAX | Excel
